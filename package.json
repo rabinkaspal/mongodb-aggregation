@@ -1,0 +1,21 @@
+{
+  "name": "mongodb-aggregation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mongodb": "^4.0.6",
+    "@types/node": "^22.14.1",
+    "dotenv": "^16.5.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.13.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
